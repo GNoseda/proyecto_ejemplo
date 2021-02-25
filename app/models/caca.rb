@@ -1,0 +1,2 @@
+class Caca < ApplicationRecord
+end
